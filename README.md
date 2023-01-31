@@ -19,3 +19,7 @@ Tetris is a classic puzzle game where players place different shaped blocks to c
 The tetris game built on HTML5 Canvas and Javascript.
 [Live app](https://squaredrop.io)
 
+
+## Log Stream of Application
+
+![Alt text](Media/2.png)
